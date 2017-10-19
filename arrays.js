@@ -13,7 +13,7 @@ function destructivelyAddElementToBeginningOfArray (array2, elementToAddToBeginn
 }
 function addElementToEndOfArray (array3, elementToAddToEnd1) {
   return [...array3, elementToAddToEnd1]
-}
+}t
 function destructivelyAddElementToEndOfArray(array4, elementToAddToEnd2) {
   array4.push(elementToAddToEnd2);
   return array4
